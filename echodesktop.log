@@ -1,0 +1,107 @@
+C:\Program Files\dotnet\sdk\8.0.425\Microsoft.Common.CurrentVersion.targets(2412,5): warning MSB3277: "WindowsBase"
+ の異なるバージョン間で、解決できない競合が見つかりました。 [C:\Users\user\Downloads\echo-show-remote (1)\echoshow-remote\windows-client\EchoRem
+ote.WinForms.csproj]
+C:\Program Files\dotnet\sdk\8.0.425\Microsoft.Common.CurrentVersion.targets(2412,5): warning MSB3277: "WindowsBase,
+ Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" と "WindowsBase, Version=5.0.0.0, Culture=neutra
+l, PublicKeyToken=31bf3856ad364e35" の間で競合が発生しました。 [C:\Users\user\Downloads\echo-show-remote (1)\echoshow-remote\win
+dows-client\EchoRemote.WinForms.csproj]
+C:\Program Files\dotnet\sdk\8.0.425\Microsoft.Common.CurrentVersion.targets(2412,5): warning MSB3277:     プライマリであるた
+め、"WindowsBase, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" が選択されました。"WindowsBase, Version=5
+.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" はプライマリではありませんでした。 [C:\Users\user\Downloads\echo-show-remo
+te (1)\echoshow-remote\windows-client\EchoRemote.WinForms.csproj]
+C:\Program Files\dotnet\sdk\8.0.425\Microsoft.Common.CurrentVersion.targets(2412,5): warning MSB3277:     "WindowsB
+ase, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" [C:\Program Files\dotnet\packs\Microsoft.NE
+TCore.App.Ref\8.0.31\ref\net8.0\WindowsBase.dll] に依存する参照です。 [C:\Users\user\Downloads\echo-show-remote (1)\echoshow-
+remote\windows-client\EchoRemote.WinForms.csproj]
+C:\Program Files\dotnet\sdk\8.0.425\Microsoft.Common.CurrentVersion.targets(2412,5): warning MSB3277:         C:\Pr
+ogram Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.31\ref\net8.0\WindowsBase.dll [C:\Users\user\Downloads\echo-
+show-remote (1)\echoshow-remote\windows-client\EchoRemote.WinForms.csproj]
+C:\Program Files\dotnet\sdk\8.0.425\Microsoft.Common.CurrentVersion.targets(2412,5): warning MSB3277:           参照
+"C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.31\ref\net8.0\WindowsBase.dll" の原因となったプロジェクト ファイルの項目イン
+クルード。 [C:\Users\user\Downloads\echo-show-remote (1)\echoshow-remote\windows-client\EchoRemote.WinForms.csproj]
+C:\Program Files\dotnet\sdk\8.0.425\Microsoft.Common.CurrentVersion.targets(2412,5): warning MSB3277:             C
+:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.31\ref/net8.0/WindowsBase.dll [C:\Users\user\Downloads\e
+cho-show-remote (1)\echoshow-remote\windows-client\EchoRemote.WinForms.csproj]
+C:\Program Files\dotnet\sdk\8.0.425\Microsoft.Common.CurrentVersion.targets(2412,5): warning MSB3277:     "WindowsB
+ase, Version=5.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" [] に依存しているか、統合されている参照。 [C:\Users\user\Downl
+oads\echo-show-remote (1)\echoshow-remote\windows-client\EchoRemote.WinForms.csproj]
+C:\Program Files\dotnet\sdk\8.0.425\Microsoft.Common.CurrentVersion.targets(2412,5): warning MSB3277:         C:\Us
+ers\user\.nuget\packages\microsoft.web.webview2\1.0.2903.40\lib_manual\net5.0-windows10.0.17763.0\Microsoft.Web.Web
+View2.Wpf.dll [C:\Users\user\Downloads\echo-show-remote (1)\echoshow-remote\windows-client\EchoRemote.WinForms.cspr
+oj]
+C:\Program Files\dotnet\sdk\8.0.425\Microsoft.Common.CurrentVersion.targets(2412,5): warning MSB3277:           参照
+"C:\Users\user\.nuget\packages\microsoft.web.webview2\1.0.2903.40\lib_manual\net5.0-windows10.0.17763.0\Microsoft.W
+eb.WebView2.Wpf.dll" の原因となったプロジェクト ファイルの項目インクルード。 [C:\Users\user\Downloads\echo-show-remote (1)\echoshow-remote\win
+dows-client\EchoRemote.WinForms.csproj]
+C:\Program Files\dotnet\sdk\8.0.425\Microsoft.Common.CurrentVersion.targets(2412,5): warning MSB3277:             C
+:\Users\user\.nuget\packages\microsoft.web.webview2\1.0.2903.40\buildTransitive\..\\lib_manual\net5.0-windows10.0.1
+7763.0\Microsoft.Web.WebView2.Wpf.dll [C:\Users\user\Downloads\echo-show-remote (1)\echoshow-remote\windows-client\
+EchoRemote.WinForms.csproj]
+C:\Users\user\Downloads\echo-show-remote (1)\echoshow-remote\windows-client\Program.cs(305,81): error CS1503: 引数 1:
+ は 'out object' から 'out byte[]' へ変換することはできません [C:\Users\user\Downloads\echo-show-remote (1)\echoshow-remote\windows
+-client\EchoRemote.WinForms.csproj]
+C:\Users\user\Downloads\echo-show-remote (1)\echoshow-remote\windows-client\Program.cs(319,56): error CS1503: 引数 1:
+ は 'out object' から 'out byte[]' へ変換することはできません [C:\Users\user\Downloads\echo-show-remote (1)\echoshow-remote\windows
+-client\EchoRemote.WinForms.csproj]
+C:\Users\user\Downloads\echo-show-remote (1)\echoshow-remote\windows-client\Program.cs(608,86): warning CS8600: Nul
+l リテラルまたは Null の可能性がある値を Null 非許容型に変換しています。 [C:\Users\user\Downloads\echo-show-remote (1)\echoshow-remote\windows-c
+lient\EchoRemote.WinForms.csproj]
+C:\Users\user\Downloads\echo-show-remote (1)\echoshow-remote\windows-client\Program.cs(608,86): warning CS8602: nul
+l 参照の可能性があるものの逆参照です。 [C:\Users\user\Downloads\echo-show-remote (1)\echoshow-remote\windows-client\EchoRemote.WinFor
+ms.csproj]
+
+ビルドに失敗しました。
+
+C:\Program Files\dotnet\sdk\8.0.425\Microsoft.Common.CurrentVersion.targets(2412,5): warning MSB3277: "WindowsBase"
+ の異なるバージョン間で、解決できない競合が見つかりました。 [C:\Users\user\Downloads\echo-show-remote (1)\echoshow-remote\windows-client\EchoRem
+ote.WinForms.csproj]
+C:\Program Files\dotnet\sdk\8.0.425\Microsoft.Common.CurrentVersion.targets(2412,5): warning MSB3277: "WindowsBase,
+ Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" と "WindowsBase, Version=5.0.0.0, Culture=neutra
+l, PublicKeyToken=31bf3856ad364e35" の間で競合が発生しました。 [C:\Users\user\Downloads\echo-show-remote (1)\echoshow-remote\win
+dows-client\EchoRemote.WinForms.csproj]
+C:\Program Files\dotnet\sdk\8.0.425\Microsoft.Common.CurrentVersion.targets(2412,5): warning MSB3277:     プライマリであるた
+め、"WindowsBase, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" が選択されました。"WindowsBase, Version=5
+.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" はプライマリではありませんでした。 [C:\Users\user\Downloads\echo-show-remo
+te (1)\echoshow-remote\windows-client\EchoRemote.WinForms.csproj]
+C:\Program Files\dotnet\sdk\8.0.425\Microsoft.Common.CurrentVersion.targets(2412,5): warning MSB3277:     "WindowsB
+ase, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" [C:\Program Files\dotnet\packs\Microsoft.NE
+TCore.App.Ref\8.0.31\ref\net8.0\WindowsBase.dll] に依存する参照です。 [C:\Users\user\Downloads\echo-show-remote (1)\echoshow-
+remote\windows-client\EchoRemote.WinForms.csproj]
+C:\Program Files\dotnet\sdk\8.0.425\Microsoft.Common.CurrentVersion.targets(2412,5): warning MSB3277:         C:\Pr
+ogram Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.31\ref\net8.0\WindowsBase.dll [C:\Users\user\Downloads\echo-
+show-remote (1)\echoshow-remote\windows-client\EchoRemote.WinForms.csproj]
+C:\Program Files\dotnet\sdk\8.0.425\Microsoft.Common.CurrentVersion.targets(2412,5): warning MSB3277:           参照
+"C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.31\ref\net8.0\WindowsBase.dll" の原因となったプロジェクト ファイルの項目イン
+クルード。 [C:\Users\user\Downloads\echo-show-remote (1)\echoshow-remote\windows-client\EchoRemote.WinForms.csproj]
+C:\Program Files\dotnet\sdk\8.0.425\Microsoft.Common.CurrentVersion.targets(2412,5): warning MSB3277:             C
+:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\8.0.31\ref/net8.0/WindowsBase.dll [C:\Users\user\Downloads\e
+cho-show-remote (1)\echoshow-remote\windows-client\EchoRemote.WinForms.csproj]
+C:\Program Files\dotnet\sdk\8.0.425\Microsoft.Common.CurrentVersion.targets(2412,5): warning MSB3277:     "WindowsB
+ase, Version=5.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" [] に依存しているか、統合されている参照。 [C:\Users\user\Downl
+oads\echo-show-remote (1)\echoshow-remote\windows-client\EchoRemote.WinForms.csproj]
+C:\Program Files\dotnet\sdk\8.0.425\Microsoft.Common.CurrentVersion.targets(2412,5): warning MSB3277:         C:\Us
+ers\user\.nuget\packages\microsoft.web.webview2\1.0.2903.40\lib_manual\net5.0-windows10.0.17763.0\Microsoft.Web.Web
+View2.Wpf.dll [C:\Users\user\Downloads\echo-show-remote (1)\echoshow-remote\windows-client\EchoRemote.WinForms.cspr
+oj]
+C:\Program Files\dotnet\sdk\8.0.425\Microsoft.Common.CurrentVersion.targets(2412,5): warning MSB3277:           参照
+"C:\Users\user\.nuget\packages\microsoft.web.webview2\1.0.2903.40\lib_manual\net5.0-windows10.0.17763.0\Microsoft.W
+eb.WebView2.Wpf.dll" の原因となったプロジェクト ファイルの項目インクルード。 [C:\Users\user\Downloads\echo-show-remote (1)\echoshow-remote\win
+dows-client\EchoRemote.WinForms.csproj]
+C:\Program Files\dotnet\sdk\8.0.425\Microsoft.Common.CurrentVersion.targets(2412,5): warning MSB3277:             C
+:\Users\user\.nuget\packages\microsoft.web.webview2\1.0.2903.40\buildTransitive\..\\lib_manual\net5.0-windows10.0.1
+7763.0\Microsoft.Web.WebView2.Wpf.dll [C:\Users\user\Downloads\echo-show-remote (1)\echoshow-remote\windows-client\
+EchoRemote.WinForms.csproj]
+C:\Users\user\Downloads\echo-show-remote (1)\echoshow-remote\windows-client\Program.cs(608,86): warning CS8600: Nul
+l リテラルまたは Null の可能性がある値を Null 非許容型に変換しています。 [C:\Users\user\Downloads\echo-show-remote (1)\echoshow-remote\windows-c
+lient\EchoRemote.WinForms.csproj]
+C:\Users\user\Downloads\echo-show-remote (1)\echoshow-remote\windows-client\Program.cs(608,86): warning CS8602: nul
+l 参照の可能性があるものの逆参照です。 [C:\Users\user\Downloads\echo-show-remote (1)\echoshow-remote\windows-client\EchoRemote.WinFor
+ms.csproj]
+C:\Users\user\Downloads\echo-show-remote (1)\echoshow-remote\windows-client\Program.cs(305,81): error CS1503: 引数 1:
+ は 'out object' から 'out byte[]' へ変換することはできません [C:\Users\user\Downloads\echo-show-remote (1)\echoshow-remote\windows
+-client\EchoRemote.WinForms.csproj]
+C:\Users\user\Downloads\echo-show-remote (1)\echoshow-remote\windows-client\Program.cs(319,56): error CS1503: 引数 1:
+ は 'out object' から 'out byte[]' へ変換することはできません [C:\Users\user\Downloads\echo-show-remote (1)\echoshow-remote\windows
+-client\EchoRemote.WinForms.csproj]
+    3 個の警告
+    2 エラー
